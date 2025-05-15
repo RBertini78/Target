@@ -1,0 +1,14 @@
+G:\Programacao\Target\PrimeiraQuestao\obj\Debug\net9.0\PrimeiraQuestao.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacao\Target\PrimeiraQuestao\obj\Debug\net9.0\PrimeiraQuestao.AssemblyInfoInputs.cache
+G:\Programacao\Target\PrimeiraQuestao\obj\Debug\net9.0\PrimeiraQuestao.AssemblyInfo.cs
+G:\Programacao\Target\PrimeiraQuestao\obj\Debug\net9.0\PrimeiraQuestao.csproj.CoreCompileInputs.cache
+G:\Programacao\Target\PrimeiraQuestao\bin\Debug\net9.0\PrimeiraQuestao.exe
+G:\Programacao\Target\PrimeiraQuestao\bin\Debug\net9.0\PrimeiraQuestao.deps.json
+G:\Programacao\Target\PrimeiraQuestao\bin\Debug\net9.0\PrimeiraQuestao.runtimeconfig.json
+G:\Programacao\Target\PrimeiraQuestao\bin\Debug\net9.0\PrimeiraQuestao.dll
+G:\Programacao\Target\PrimeiraQuestao\bin\Debug\net9.0\PrimeiraQuestao.pdb
+G:\Programacao\Target\PrimeiraQuestao\obj\Debug\net9.0\PrimeiraQuestao.dll
+G:\Programacao\Target\PrimeiraQuestao\obj\Debug\net9.0\refint\PrimeiraQuestao.dll
+G:\Programacao\Target\PrimeiraQuestao\obj\Debug\net9.0\PrimeiraQuestao.pdb
+G:\Programacao\Target\PrimeiraQuestao\obj\Debug\net9.0\PrimeiraQuestao.genruntimeconfig.cache
+G:\Programacao\Target\PrimeiraQuestao\obj\Debug\net9.0\ref\PrimeiraQuestao.dll

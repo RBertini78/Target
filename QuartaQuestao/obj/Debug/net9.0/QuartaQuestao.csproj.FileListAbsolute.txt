@@ -1,0 +1,14 @@
+G:\Programacao\Target\QuartaQuestao\obj\Debug\net9.0\QuartaQuestao.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacao\Target\QuartaQuestao\obj\Debug\net9.0\QuartaQuestao.AssemblyInfoInputs.cache
+G:\Programacao\Target\QuartaQuestao\obj\Debug\net9.0\QuartaQuestao.AssemblyInfo.cs
+G:\Programacao\Target\QuartaQuestao\obj\Debug\net9.0\QuartaQuestao.csproj.CoreCompileInputs.cache
+G:\Programacao\Target\QuartaQuestao\bin\Debug\net9.0\QuartaQuestao.exe
+G:\Programacao\Target\QuartaQuestao\bin\Debug\net9.0\QuartaQuestao.deps.json
+G:\Programacao\Target\QuartaQuestao\bin\Debug\net9.0\QuartaQuestao.runtimeconfig.json
+G:\Programacao\Target\QuartaQuestao\bin\Debug\net9.0\QuartaQuestao.dll
+G:\Programacao\Target\QuartaQuestao\bin\Debug\net9.0\QuartaQuestao.pdb
+G:\Programacao\Target\QuartaQuestao\obj\Debug\net9.0\QuartaQuestao.dll
+G:\Programacao\Target\QuartaQuestao\obj\Debug\net9.0\refint\QuartaQuestao.dll
+G:\Programacao\Target\QuartaQuestao\obj\Debug\net9.0\QuartaQuestao.pdb
+G:\Programacao\Target\QuartaQuestao\obj\Debug\net9.0\QuartaQuestao.genruntimeconfig.cache
+G:\Programacao\Target\QuartaQuestao\obj\Debug\net9.0\ref\QuartaQuestao.dll

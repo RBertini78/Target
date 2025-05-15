@@ -1,0 +1,14 @@
+G:\Programacao\Target\QuintaQuestao\bin\Debug\net9.0\QuintaQuestao.exe
+G:\Programacao\Target\QuintaQuestao\bin\Debug\net9.0\QuintaQuestao.deps.json
+G:\Programacao\Target\QuintaQuestao\bin\Debug\net9.0\QuintaQuestao.runtimeconfig.json
+G:\Programacao\Target\QuintaQuestao\bin\Debug\net9.0\QuintaQuestao.dll
+G:\Programacao\Target\QuintaQuestao\bin\Debug\net9.0\QuintaQuestao.pdb
+G:\Programacao\Target\QuintaQuestao\obj\Debug\net9.0\QuintaQuestao.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacao\Target\QuintaQuestao\obj\Debug\net9.0\QuintaQuestao.AssemblyInfoInputs.cache
+G:\Programacao\Target\QuintaQuestao\obj\Debug\net9.0\QuintaQuestao.AssemblyInfo.cs
+G:\Programacao\Target\QuintaQuestao\obj\Debug\net9.0\QuintaQuestao.csproj.CoreCompileInputs.cache
+G:\Programacao\Target\QuintaQuestao\obj\Debug\net9.0\QuintaQuestao.dll
+G:\Programacao\Target\QuintaQuestao\obj\Debug\net9.0\refint\QuintaQuestao.dll
+G:\Programacao\Target\QuintaQuestao\obj\Debug\net9.0\QuintaQuestao.pdb
+G:\Programacao\Target\QuintaQuestao\obj\Debug\net9.0\QuintaQuestao.genruntimeconfig.cache
+G:\Programacao\Target\QuintaQuestao\obj\Debug\net9.0\ref\QuintaQuestao.dll

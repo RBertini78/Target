@@ -1,0 +1,14 @@
+G:\Programacao\Target\SegundaQuestao\obj\Debug\net9.0\SegundaQuestao.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programacao\Target\SegundaQuestao\obj\Debug\net9.0\SegundaQuestao.AssemblyInfoInputs.cache
+G:\Programacao\Target\SegundaQuestao\obj\Debug\net9.0\SegundaQuestao.AssemblyInfo.cs
+G:\Programacao\Target\SegundaQuestao\obj\Debug\net9.0\SegundaQuestao.csproj.CoreCompileInputs.cache
+G:\Programacao\Target\SegundaQuestao\bin\Debug\net9.0\SegundaQuestao.exe
+G:\Programacao\Target\SegundaQuestao\bin\Debug\net9.0\SegundaQuestao.deps.json
+G:\Programacao\Target\SegundaQuestao\bin\Debug\net9.0\SegundaQuestao.runtimeconfig.json
+G:\Programacao\Target\SegundaQuestao\bin\Debug\net9.0\SegundaQuestao.dll
+G:\Programacao\Target\SegundaQuestao\bin\Debug\net9.0\SegundaQuestao.pdb
+G:\Programacao\Target\SegundaQuestao\obj\Debug\net9.0\SegundaQuestao.dll
+G:\Programacao\Target\SegundaQuestao\obj\Debug\net9.0\refint\SegundaQuestao.dll
+G:\Programacao\Target\SegundaQuestao\obj\Debug\net9.0\SegundaQuestao.pdb
+G:\Programacao\Target\SegundaQuestao\obj\Debug\net9.0\SegundaQuestao.genruntimeconfig.cache
+G:\Programacao\Target\SegundaQuestao\obj\Debug\net9.0\ref\SegundaQuestao.dll
